@@ -2,7 +2,7 @@ BOOTSITE
 
 Bootsite was successfully created with Html and css 
 
-Develop by Femi Okunlade
+Developed by Femi Okunlade
 
 Technologies:
 
